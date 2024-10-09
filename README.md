@@ -1,7 +1,3 @@
-Here’s a sample **README** file for your **Text-to-Image Generation** project using Hugging Face:
-
----
-
 # **Text-to-Image Generation Using Hugging Face**
 
 ## **Project Overview**
@@ -70,7 +66,8 @@ This project demonstrates how to generate images from text descriptions using pr
 ### **Sample Outputs**
 
 **A dog plaing with a ball**
-![Generated Image](output_image.png)
+![pretrained model's dog img](https://github.com/user-attachments/assets/054b8121-cbaa-4f0f-92c5-738681b76b00)
+
 
 _This is an example image generated from the prompt: **"A futuristic city skyline at sunset"**._
 
@@ -88,10 +85,6 @@ To experiment with different pre-trained models, simply change the model name in
 ```python
 model = pipeline("text-to-image-generation", model="CompVis/stable-diffusion-v1-4")
 ```
-
-## **Output Sample Image**
-
-![pretrained model's dog img](https://github.com/user-attachments/assets/054b8121-cbaa-4f0f-92c5-738681b76b00)
 
 
 ## **References**
