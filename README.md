@@ -67,11 +67,14 @@ This project demonstrates how to generate images from text descriptions using pr
 3. **View the Generated Image:**
    Once the script finishes, the generated image will be saved as `output_image.png` in your project directory.
 
-### **Sample Output**
+### **Sample Outputs**
 
+**A dog plaing with a ball**
 ![Generated Image](output_image.png)
 
 _This is an example image generated from the prompt: **"A futuristic city skyline at sunset"**._
+
+![Futuristic city](https://github.com/user-attachments/assets/e7dfb34b-f792-435c-9d10-4e95e2b261b8)
 
 ## **Model Customization**
 
