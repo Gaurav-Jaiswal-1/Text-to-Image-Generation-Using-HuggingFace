@@ -63,9 +63,11 @@ This project demonstrates how to generate images from text descriptions using pr
 3. **View the Generated Image:**
    Once the script finishes, the generated image will be saved as `output_image.png` in your project directory.
 
-### **Sample Outputs**
+## **Sample Outputs**
 
 **A dog plaing with a ball**
+
+
 ![pretrained model's dog img](https://github.com/user-attachments/assets/054b8121-cbaa-4f0f-92c5-738681b76b00)
 
 
