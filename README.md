@@ -90,7 +90,7 @@ model = pipeline("text-to-image-generation", model="CompVis/stable-diffusion-v1-
 
 ## **Note-**
 
-If you're using this repo then make sure that you're using in it google colab. Combine both the files and use it in colab
+If you're using this repo then make sure that you're using in it google colab. Combine both the files and use it in colab.
 
 
 ## **References**
